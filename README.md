@@ -1,4 +1,4 @@
-<img align="left" style="margin-right: 21px" width="150" src=""/>
+<img align="left" style="margin-right: 21px" width="150" src="https://github.com/WesleyMsilva/WesleyMsilva/blob/main/meninoDePijama.jpg"/>
 
 <h3> 
     hi, i'm Wesley Silva! 
@@ -8,11 +8,11 @@
 <img align="right" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
     <p>
         <em>software developer by
-            <a href="https://www.sp.senac.br/">SENAC: Serviço Nacional de Aprendizagem Comercial</a>
+            <a href="https://www.sp.senac.br/">SENAC</a>
             <img src="https://media.giphy.com/media/1etn2BmiW0nOgoZHTL/giphy.gif" width="30">
 </br>
       software developer at 
-            <a href="https://www.sp.senac.br/">SENAC: Serviço Nacional de Aprendizagem Comercial</a>
+            <a href="https://www.sp.senac.br/">SENAC</a>
             <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30"> 
 </br>   
          self-taught student 
@@ -34,7 +34,7 @@
     
 <br>
 
-<img src="assets/images/yagoPeixinhoSoftwareDeveloperBanner.png" width="100%">
+<img src="https://github.com/WesleyMsilva/WesleyMsilva/blob/main/Component%201.png" width="100%">
 hey, what's up? My name is Wesley Silva and I am currently a software developer and programmer. I'm always willing to learn new things, especially when it comes to technology. Feel free to visit my repositories and message me through my social networks.
 
 <br>
