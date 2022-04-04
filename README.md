@@ -59,7 +59,7 @@ hey, what's up? My name is Wesley Silva and I am currently a software developer 
 
 ```javascript
 const yagoPeixinho = {
-  createdAt: Tue Jan 21 2003 19:20:00 GMT-0300,
+  createdAt: Tue Jan 21 2016 19:20:00 GMT-0300,
   toolsAndTechnologies: [
     Node.js
     React.js,
