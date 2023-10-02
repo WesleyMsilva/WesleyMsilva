@@ -12,7 +12,7 @@
             <img src="https://media.giphy.com/media/1etn2BmiW0nOgoZHTL/giphy.gif" width="30">
 </br>
       
-desenvolvedor de software no 
+desenvolvedor Front-End 
             <a href="https://www.sp.senac.br/">SENAC</a>
             <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30"> 
 </br>   
