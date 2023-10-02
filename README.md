@@ -26,7 +26,7 @@ desenvolvedor de software no
 <br>
 <br>
 
-## a little more about me...<img src="https://media.giphy.com/media/l74vwdp2hpeATzE1si/giphy.gif" width="60">
+## um pouco mais sobre mim...<img src="https://media.giphy.com/media/l74vwdp2hpeATzE1si/giphy.gif" width="60">
 
 <details>
     <summary>
