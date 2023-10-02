@@ -1,21 +1,22 @@
 <img align="left" style="margin-right: 21px" width="150" src="https://github.com/WesleyMsilva/WesleyMsilva/blob/main/meninoDePijama.jpg"/>
 
 <h3> 
-    hi, i'm Wesley Silva! 
+    Oi eu sou Wesley Silva! 
     <img src="https://media.giphy.com/media/l378w6DoOV26903Sg/giphy.gif" width="50">
 </h3>
 
 <img align="right" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
     <p>
-        <em>software developer by
+        <em>desenvolvedor de software por
             <a href="https://www.sp.senac.br/">SENAC</a>
             <img src="https://media.giphy.com/media/1etn2BmiW0nOgoZHTL/giphy.gif" width="30">
 </br>
-      software developer at 
+      
+desenvolvedor de software no 
             <a href="https://www.sp.senac.br/">SENAC</a>
             <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30"> 
 </br>   
-         self-taught student 
+         estudante autodidata 
             <img src="https://media.giphy.com/media/5kFzSJG3fJdgK00RPV/giphy.gif" width="30"> 
         </em>
     </p>
@@ -29,13 +30,13 @@
 
 <details>
     <summary>
-         who i am?
+         quem eu sou?
     </summary>
     
 <br>
 
 <img src="https://github.com/WesleyMsilva/WesleyMsilva/blob/main/Component%201.png" width="100%">
-hey, what's up? My name is Wesley Silva and I am currently a software developer and programmer. I'm always willing to learn new things, especially when it comes to technology. Feel free to visit my repositories and message me through my social networks.
+E ai, como vai? Meu nome é Wesley Silva e atualmente sou desenvolvedor e programador de software. Estou sempre disposto a aprender coisas novas, principalmente quando o assunto é tecnologia. Fique à vontade para visitar meus repositórios e me enviar mensagens através de minhas redes sociais.
 
 <br>
 
@@ -43,10 +44,11 @@ hey, what's up? My name is Wesley Silva and I am currently a software developer 
 
 <br>
     
-- born and raised in Brazil, São Paulo, Piracicaba
-- self-taught
-- send me a [instagram direct](https://www.instagram.com/wesley.mnsilva1/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
-- one of my hobbies is playing video games, [send me a message](https://www.instagram.com/wesley.mnsilva1/) and let's play together :D
+- nascido e criado no Brasil, São Paulo, Piracicaba
+- autodidata
+- envie-me uma [instagram direct](https://www.instagram.com/wesley.mnsilva1/) 
+e vamos ser amigos ( ﾉ ^ ｰ ^)ﾉ
+- um dos meus hobbies é jogar videogame, [send me a message](https://www.instagram.com/wesley.mnsilva1/) e vamos brincar juntos :D
 
 <br>
     
@@ -54,7 +56,7 @@ hey, what's up? My name is Wesley Silva and I am currently a software developer 
 
 <details>
     <summary>
-        technologies and knowledge    
+        tecnologias e conhecimento    
     </summary>
 
 ```javascript
